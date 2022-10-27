@@ -1,0 +1,34 @@
+[
+    {
+        "question": "What is a web developer?",
+        "answer": "A web developer is a programmer who makes websites, and apps for the World Wide Web. A web developer builds a website from the bottom up, developing everything from layout to functions and features on the page."
+    },
+    {
+        "question": "What is the full form of HTML?",
+        "answer": "Hyper Text Markup Language"
+    },
+    {
+        "question": "Is javascript case sensitive?",
+        "answer": "All JavaScript identifiers are case sensitive."
+    },
+    {
+        "question": "What is DOM",
+        "answer": "A DOM has a tree-like structure. Each element, attribute, and piece of text in the markup language becomes a DOM node in the tree structure. The nodes are defined by their relationship to other DOM nodes. Some elements are parents of child nodes, and child nodes have siblings."
+    },
+    {
+        "question": "Why React is so popular?",
+        "answer": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes. Declarative views make your code more predictable and easier to debug."
+    },
+    {
+        "question": "Can you tell me some Tailwind CSS component library name?",
+        "answer": "Sure, 1. Flowbite, 2. DaisyUI, 3. Meraki UI, 4. Kometa UI Kit, 5. Lofi UI, 6. Material Tailwind etc"
+    },
+    {
+        "question": "What should I use? Bootstrap or Tailwind CSS?",
+        "answer": "Both are good enough but you should go for Tailwind CSS. Because it has more flexibility than Bootstrap and great features with awesome libraries."
+    },
+    {
+        "question": "What are needed the most to become a skilled web developer?",
+        "answer": "To become a Web Developer, you should have an understanding of HTML, CSS, and JavaScript. It's also recommended to learn about CSS and CSS frameworks. Developing these fundamental web development skills will give you the foundation and logic for communicating with programming languages."
+    }
+]
