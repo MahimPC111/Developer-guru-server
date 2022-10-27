@@ -1,0 +1,50 @@
+[
+    {
+        "id": "01",
+        "title": "HTML",
+        "body": "HTML is a markup language used by the browser to manipulate text, images, and other content, in order to display it in the required format. HTML was created by Tim Berners-Lee in 1991. The first-ever version of HTML was HTML 1.0, but the first standard version was HTML 2.0, published in 1995.",
+        "duration": "1 week",
+        "price": "600 BDT",
+        "img": "https://www.codingdiv.com/wp-content/uploads/2021/02/HTML.png"
+    },
+    {
+        "id": "02",
+        "title": "CSS",
+        "body": "Cascading Style Sheets(CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript",
+        "duration": "1.5 week",
+        "price": "700 BDT",
+        "img": "https://cronuts.digital/wp-content/uploads/2020/04/Artboard-11-1024x724.png"
+    },
+    {
+        "id": "03",
+        "title": "JavaScript",
+        "body": "JavaScript is a high-level, often just-in-time compiled language that conforms to the ECMAScript standard.[10] It has dynamic typing, prototype-based object-orientation, and first-class functions. It is multi-paradigm, supporting event-driven, functional, and imperative programming styles.",
+        "duration": "3 week",
+        "price": "1000 BDT",
+        "img": "https://community-cdn-digitalocean-com.global.ssl.fastly.net/NXyrPjhCejAep2LBYBgcqMoJ"
+    },
+    {
+        "id": "04",
+        "title": "React",
+        "body": "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies. React can be used as a base in the development of single-page, mobile, or server-rendered applications with frameworks like Next.js.",
+        "duration": "5 week",
+        "price": "1600 BDT",
+        "img": "https://www.sleeplessyogi.com/static/127b470a1814ca2ae06d9f40df34f190/reactjs.png"
+    },
+    {
+        "id": "05",
+        "title": "MongoDB",
+        "body": "MongoDB is an open source NoSQL database management program. NoSQL is used as an alternative to traditional relational databases. NoSQL databases are quite useful for working with large sets of distributed data. MongoDB is a tool that can manage document-oriented information, store or retrieve information.",
+        "duration": "2 week",
+        "price": "800 BDT",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBlFgYClVbx5bT5aJtWthPvGsK0SepRKGb9w&usqp=CAU"
+    },
+    {
+        "id": "06",
+        "title": "Rust",
+        "body": "Rust is a multi-paradigm, general-purpose programming language. Rust emphasizes performance, type safety, and concurrency. Rust enforces memory safety—that is, that all references point to valid memory—without requiring the use of a garbage collector or reference counting present in other memory-safe languages.",
+        "duration": "3 week",
+        "price": "1000 BDT",
+        "img": "https://miro.medium.com/max/730/0*freLYFrvNfxSjZ2M.png"
+    }
+]
